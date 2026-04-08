@@ -1,10 +1,11 @@
 # Oasis Infobyte Internship – Data Science Projects (OIBSIP)
+
 ---
 
 ## About This Repository
 
 This repository contains all the tasks completed as part of the **Oasis Infobyte Data Science Internship Program**.
-Each project focuses on solving real-world problems using data science, machine learning, and data analysis techniques.
+Each project demonstrates practical implementation of **machine learning, data analysis, and real-world problem solving**.
 
 ---
 
@@ -13,9 +14,9 @@ Each project focuses on solving real-world problems using data science, machine 
 ```
 OIBSIP/
  ├── Task1_IRIS/
- ├── Task2_CarPrice/
- ├── Task3_Spam/
- ├── Task4_Unemployment/
+ ├── Task2_Unemployment/
+ ├── Task3_CarPrice/
+ ├── Task4_SpamDetection/
  ├── Task5_SalesPrediction/
 ```
 
@@ -32,15 +33,23 @@ OIBSIP/
 
 ---
 
-### Task 2: Car Price Prediction
+### Task 2: Unemployment Analysis with Python
+
+* Data analysis project
+* Analyzes unemployment rate trends (especially COVID-19 impact)
+* Includes data cleaning, visualization, and insights
+
+---
+
+### Task 3: Car Price Prediction using Machine Learning
 
 * Regression problem to predict car prices
-* Features include mileage, horsepower, brand, etc.
+* Factors include brand, mileage, horsepower, features
 * Models: Linear Regression / Random Forest
 
 ---
 
-### Task 3: Email Spam Detection
+### Task 4: Email Spam Detection with Machine Learning
 
 * Classification problem using NLP
 * Detects spam vs non-spam emails
@@ -48,18 +57,10 @@ OIBSIP/
 
 ---
 
-### Task 4: Unemployment Analysis
-
-* Data analysis project
-* Analyzes unemployment trends (especially COVID-19 impact)
-* Includes data visualization and insights
-
----
-
-### Task 5: Sales Prediction
+### Task 5: Sales Prediction using Python
 
 * Predicts future product sales
-* Based on advertising and marketing data
+* Based on advertising spend and marketing strategies
 * Uses regression models
 
 ---
@@ -70,21 +71,22 @@ OIBSIP/
 * NumPy & Pandas
 * Matplotlib & Seaborn
 * Scikit-learn
-* NLP Techniques
+* Natural Language Processing (NLP)
 
 ---
 
 ## Key Learnings
 
 * Data preprocessing and cleaning
-* Data visualization and analysis
+* Data visualization and exploratory analysis
 * Machine Learning (Classification & Regression)
 * Natural Language Processing (NLP)
-* Real-world problem solving
+* Real-world data science applications
 
 ---
 
 ## Connect With Me
+
 * LinkedIn: https://www.linkedin.com/in/prince-patel-679283323/
 * GitHub: https://github.com/princeap7
 
